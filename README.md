@@ -18,23 +18,27 @@ The Netherlands and it's people, the dutch, have a lot of great things. In no sp
 This isn't that difficult to do in IT in general, it's dead easy if you're a developer. You follow the traditional route, find your dream job on linkedin, glassdoor, google and apply online. Most of the times you will have 2 interview rounds (one with HR, one technical) and if they like you, you will receive an offer. 
 
 #### How much should I ask?
-Again, roughly speaking, salaries in IT will range between 40.000E - 70.000E gross per year. It is reasonable to expect that a junior/intermediate/senior developer will get respectively 40k/50k/60k . Your milleage will vary, and there are exceptions that have significantly higher or lower salaries.
+Again, roughly speaking, salaries in IT will range between 40.000E - 70.000E gross per year while higher salaries are possible at large, international companies. It is reasonable to expect that a junior/intermediate/senior developer will get respectively about 45k/55k/65k. Your milleage will vary, and there are exceptions that have significantly higher or lower salaries.
 
 If you do get an offer it will look something like this:
 
  Hi Person X, Y. We are delighted to invite you to join our office in Amsterdam.
 Details of our offer are as follows:
-Salary: a 60000 gross yearly salary, which consists of:
+* Salary: a 60000 gross yearly salary, which consists of:
 
-Monthly gross salary of Euro 4600
+* Monthly gross salary of Euro 4600
 
-Annual holiday allowance of 8% (Euro 4800 gross paid out in June)
+* Annual holiday allowance of 8% (Euro 4800 gross paid out in June)
 
-Holidays: 27 paid days of holiday (Dutch public holidays that fall on weekdays are not detracted from this amount).
+* Holidays: 27 paid days of holiday (Dutch public holidays that fall on weekdays are not detracted from this amount).
 
-Pension plan: blabla*
+* Pension plan: blabla*
 
-First gotcha: The 60.000E salary they offer is dividied into 2 parts: 55.200E paid in equal parts each month and 4800E or 8% paid as a holiday allowance in June(So you can take a holiday , you know). It doesn't make a huge difference, but due to the 8% holiday pay your monthly salary might be lower, and you get that money in June usually.
+First gotcha: The 60.000E salary they offer is dividied into 2 parts: 
+* 55.200E paid in equal parts each month and 
+* 4800E or 8% paid as a holiday allowance in June(So you can take a holiday , you know). 
+
+It doesn't make a huge difference, but due to the 8% holiday pay your monthly salary might be lower, and you get that money in June usually.
 
 #### How much will I get after tax each month?
 
