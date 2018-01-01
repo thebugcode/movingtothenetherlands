@@ -73,35 +73,35 @@ Yes you could. After a few months here you can buy a house provided that your sa
 
 ## What will my monthly expenses look like?
 
-Here they are for a single individual living frugally in a shared house, but a private room with little expenses.
+Here they are for a single individual living frugally in a private room of a large house.
 
-Rent : 600E 
+- Rent : 600E 
 
-Food: 300E 
+- Food: 300E 
 
-Public transport: 100E for a monthly pass in Amsterdam.
+- Public transport: 100E for a monthly pass in Amsterdam.
 
-Health insurance: 100E monthly, lowest insurance you can get.
+- Health insurance: 100E monthly, lowest insurance you can get.
 
-Phone subscription: 20E
+- Phone subscription: 20E
 
-Utilities: Usually included in the room price  otherwise 100E gas + electricity, 50E Internet , 20E - water charge.
+- Utilities: Usually included in the room price  otherwise 100E gas + electricity, 50E Internet , 20E - water charge.
 
 
-*Total* - 1150E net. 
+*Total* - 1150E net without utilities.
 
 Here are calculations for 2 people living  comfortably in their own 2 bedroom home purchased or rented:
-Rent/Mortgage : 1300E 
+- Rent/Mortgage : 1300E 
 
-Food: 500E 
+- Food: 500E 
 
-Public transport: 100E for a monthly pass in Amsterdam per person.
+- Public transport: 100E for a monthly pass in Amsterdam per person.
 
-Health insurance: 100E monthly, lowest insurance you can get per person.
+- Health insurance: 100E monthly, lowest insurance you can get per person.
 
-Phone subscription: 25E per person.
+- Phone subscription: 25E per person.
 
-Utilities: 100E gas + electricity, 50E Internet + TV , 20E - water charge.
+- Utilities: 100E gas + electricity, 50E Internet + TV , 20E - water charge.
 
 
 *Total* - 2320E net monthly. 
