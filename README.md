@@ -114,7 +114,7 @@ I brought my own, against all advice. I had to pay crazy parking fees ( 6Euro pe
 
 ### Why shouldn't I move to the Netherlands?
 
-1. The weather is unpleasat. Rains 6 months a year (Think October through March). Depressing and cold. 
+1. The weather is unpleasant. Rains 6 months a year (Think October through March). Depressing and cold. 
 
 2. Even if you have health insurance you will still pay for a lot of health related costs.
 
