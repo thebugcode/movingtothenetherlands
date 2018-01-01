@@ -110,19 +110,19 @@ Here are calculations for 2 people living  comfortably in their own 2 bedroom ho
 
 ### Should I bring my car?
 
-I brought my own, against all advice. I have to pay crazy parking fees ( 6Euro per hour), car broke down so had to pay very costly repairs, importing it was a disastrous process so we ended up shipping it back home because importing it oficially would have cost us an extra 2000E just for the formalities. The Netherlands also has a high monthly insurance cost & road tax especially for diesel cars. You're looking at 200E at least monthly just for insurance + road tax. The netherlands has great public transport/trains and bycicle infrastructure. We use them.
+I brought my own, against all advice. I had to pay crazy parking fees ( 6Euro per hour), car broke down so had to pay very costly repairs, importing it was a disastrous process so we ended up shipping it back home because importing it oficially would have cost us an extra 2000E (for a 5000E VW Golf) just for the formalities. The Netherlands also has a high monthly insurance cost & road tax especially for diesel cars. You're looking at 200E at least monthly just for insurance + road tax. The Netherlands has great public transport/trains and bycicle infrastructure. I recommend using them and buying a car from the NL later on. It is wise to bring your car here for just a few months and then later on, send it back.
 
 ### Why shouldn't I move to the Netherlands?
 
-1. The weather is bad. Rains 6 months a year (Think October through March). Depressing and cold. 
+1. The weather is unpleasat. Rains 6 months a year (Think October through March). Depressing and cold. 
 
 2. Even if you have health insurance you will still pay for a lot of health related costs.
 
-3. Compared to other nations, those in in northern Europe aren't as friendly/inviting. Your milleage may vary here.
+3. Compared to other nations, those in in northern Europe aren't as friendly. It is hard to make friends. Your milleage will vary.
 
 4. High taxes on owning cars, highest gasoline cost in Europe (1.5E/ liter), high parking costs. 
 
-5. Everything, not just cars is on the expensive side. 
+5. Everything, not just cars is on the expensive side, but not crazy expensive (like Switzerland/Norway)
 
 
 
